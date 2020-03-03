@@ -1,4 +1,5 @@
-# ITAMDAS - Propuesta Emilio Mena
+# ITAMDAS
+##### Propuesta Emilio Mena Garcia
 
 La idea general es desarrollar una aplicación que funcione como cuenta de débito para los estudiantes del itam que además
 busque fomentar el ahorro de sus usuarios. También se busca implementar una cadena de bloques (blockchain) como capa extra
