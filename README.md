@@ -1,5 +1,4 @@
-# ITAMDAS
-##### Propuesta Emilio Mena Garcia
+# ITAMDAS - Propuesta Emilio Mena
 
 La idea general es desarrollar una aplicación que funcione como cuenta de débito para los estudiantes del itam que además
 busque fomentar el ahorro de sus usuarios. También se busca implementar una cadena de bloques (blockchain) como capa extra
@@ -41,10 +40,16 @@ desarrollo) sin dinero real para medir el desempeño real.
 
 Durante esta etapa se deben definir las ventajas competitivas del producto y estas deben ser desrrolladas como funcionalidades
 de la aplicación. El 'feature' de tandas se debe aterrizar y desarrollar. Además se busca mejorar la estética de la aplicación.
+Además se debe contemplar el desarrollo de una aplicación blockchain sobre un marco existente en la nube como el ofrecimiento
+de IBM de managed Blockchain que utiliza el marco Hyperledger.
 
 Por otro lado, las pruebas técnicas de la plataforma deben continuar. En esta etapa se busca el uso por 5-10 usuarios
 cercanos al equipo para identificar errores y mejoras. Cabe recalcar que esto debe ser un proceso que se repita continuamente
 a través de la vida de la aplicación.
+
+El final de esta etapa o el inicio de la siguiente es el momento óptimo para cambiar de proveedor de nube si así lo desea el
+equipo. El cambio se haría hacia uno de los proveedores más grandes como [AWS](https://aws.amazon.com) y
+[Google](https://cloud.google.com/?hl=es). Esto nos permitiría reducir los costos de operación.
 
 ----------------------------
 ### Etapa 3 - Introducción del Producto en el Mercado
@@ -55,8 +60,6 @@ etapa tiene que ver con el manejo de dinero.
 El principal obstaculo en esta última etapa es el manejo del dinero. Hasta ahora, la aplicación no mueve dinero de verdad.
 Es necesario un lugar en donde guardar los fondos, un método para fondear las cuentas de los usuarios y un métdo para
 que los usuarios puedan disponer del dinero que tengan en sus cuentas.
-
-
 
 ------------------------------
 
