@@ -1,8 +1,22 @@
-# ITAMDAS - Propuesta Emilio Mena
+# PROYECTO “ITANDA”
 
-La idea general es desarrollar una aplicación que funcione como cuenta de débito para los estudiantes del itam que además
-busque fomentar el ahorro de sus usuarios. También se busca implementar una cadena de bloques (blockchain) como capa extra
-de seguridad y de trazabilidad.
+El propósito del proyecto es brindar a los integrantes de la comunidad ITAM una Plataforma Interuniversitaria de Cobros 
+y Pagos Digitales que facilite las transacciones monetarias que se realizan día a día. En la actualidad diversas Fintech 
+ofrecen servicios similares, sin embargo, buscamos innovar el mercado agregando nuevas opciones que incentiven la cultura
+del ahorro y bienestar de las finanzas personales. 
+
+La plataforma contara con las siguientes opciones: 
+
+ - Opciones para cobrar/pagar, ya sea a través del número de cuenta de un usuario específico o con tecnología Quick Response. 
+ - Opciones para establecer metas de ahorro, con la posibilidad de automatizar la extracción de montos por periodos de tiempo. 
+ - Opciones para formar parte de sistemas de ahorro compartido. Esto con el objetivo de estudiar el comportamiento de pago 
+ de los usuarios y que se puedan brindar créditos, etc. 
+
+La mayor innovación del proyecto es que la estructura de datos que se va a implementar para realizar el registro de las 
+transacciones de los usuarios es una cadena de bloques (blockchain). Esto brindará mayor seguridad y trazabilidad a la 
+plataforma.
+
+-------------------------------
 
 Se conceptualiza el proyecto en 3 etapas generales.
 
